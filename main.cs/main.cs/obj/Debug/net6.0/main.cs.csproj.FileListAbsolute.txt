@@ -1,0 +1,15 @@
+C:\reposetorie\main.cs\main.cs\bin\Debug\net6.0\main.cs.exe
+C:\reposetorie\main.cs\main.cs\bin\Debug\net6.0\main.cs.deps.json
+C:\reposetorie\main.cs\main.cs\bin\Debug\net6.0\main.cs.runtimeconfig.json
+C:\reposetorie\main.cs\main.cs\bin\Debug\net6.0\main.cs.dll
+C:\reposetorie\main.cs\main.cs\bin\Debug\net6.0\main.cs.pdb
+C:\reposetorie\main.cs\main.cs\obj\Debug\net6.0\main.cs.csproj.AssemblyReference.cache
+C:\reposetorie\main.cs\main.cs\obj\Debug\net6.0\main.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\reposetorie\main.cs\main.cs\obj\Debug\net6.0\main.cs.AssemblyInfoInputs.cache
+C:\reposetorie\main.cs\main.cs\obj\Debug\net6.0\main.cs.AssemblyInfo.cs
+C:\reposetorie\main.cs\main.cs\obj\Debug\net6.0\main.cs.csproj.CoreCompileInputs.cache
+C:\reposetorie\main.cs\main.cs\obj\Debug\net6.0\main.cs.dll
+C:\reposetorie\main.cs\main.cs\obj\Debug\net6.0\refint\main.cs.dll
+C:\reposetorie\main.cs\main.cs\obj\Debug\net6.0\main.cs.pdb
+C:\reposetorie\main.cs\main.cs\obj\Debug\net6.0\main.cs.genruntimeconfig.cache
+C:\reposetorie\main.cs\main.cs\obj\Debug\net6.0\ref\main.cs.dll
